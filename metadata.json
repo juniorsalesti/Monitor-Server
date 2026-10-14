@@ -1,0 +1,6 @@
+{
+  "name": "Monitor de Servidor 89.58.58.246",
+  "description": "Painel moderno e em tempo real para monitoramento do servidor 89.58.58.246 com detecção de quedas, reinicializações e agente dedicado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

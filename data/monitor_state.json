@@ -1,0 +1,340 @@
+{
+  "config": {
+    "targetIp": "89.58.58.246",
+    "targetPort": 22,
+    "checkIntervalSeconds": 10,
+    "timeoutMs": 3000,
+    "failureThreshold": 2
+  },
+  "currentStatus": "ONLINE",
+  "lastCheck": "2026-10-14T00:53:47.033Z",
+  "lastLatencyMs": 169,
+  "uptimeSince": "2026-10-14T00:39:22.448Z",
+  "outageStartTime": null,
+  "consecutiveFailures": 0,
+  "totalChecks": 93,
+  "successfulChecks": 93,
+  "events": [],
+  "latencyHistory": [
+    {
+      "timestamp": "2026-10-14T00:44:13.670Z",
+      "latencyMs": 159,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:44:23.674Z",
+      "latencyMs": 163,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:44:33.685Z",
+      "latencyMs": 173,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:44:43.675Z",
+      "latencyMs": 163,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:44:47.700Z",
+      "latencyMs": 168,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:44:53.672Z",
+      "latencyMs": 158,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:45:03.677Z",
+      "latencyMs": 162,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:45:13.684Z",
+      "latencyMs": 169,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:45:23.690Z",
+      "latencyMs": 173,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:45:33.950Z",
+      "latencyMs": 1358,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:45:42.754Z",
+      "latencyMs": 160,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:45:52.754Z",
+      "latencyMs": 159,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:46:02.762Z",
+      "latencyMs": 168,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:46:07.929Z",
+      "latencyMs": 1100,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:46:16.994Z",
+      "latencyMs": 165,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:46:26.993Z",
+      "latencyMs": 164,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:46:36.989Z",
+      "latencyMs": 158,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:46:46.994Z",
+      "latencyMs": 163,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:46:56.991Z",
+      "latencyMs": 159,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:47:06.993Z",
+      "latencyMs": 160,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:47:17.002Z",
+      "latencyMs": 168,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:47:27.007Z",
+      "latencyMs": 173,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:47:36.994Z",
+      "latencyMs": 159,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:47:47.000Z",
+      "latencyMs": 163,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:47:57.009Z",
+      "latencyMs": 173,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:48:07.010Z",
+      "latencyMs": 173,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:48:16.997Z",
+      "latencyMs": 159,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:48:26.997Z",
+      "latencyMs": 157,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:48:37.013Z",
+      "latencyMs": 173,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:48:47.008Z",
+      "latencyMs": 169,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:48:57.013Z",
+      "latencyMs": 172,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:49:07.000Z",
+      "latencyMs": 159,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:49:17.011Z",
+      "latencyMs": 169,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:49:27.016Z",
+      "latencyMs": 173,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:49:37.001Z",
+      "latencyMs": 159,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:49:47.017Z",
+      "latencyMs": 173,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:49:57.004Z",
+      "latencyMs": 159,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:50:07.020Z",
+      "latencyMs": 173,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:50:17.012Z",
+      "latencyMs": 164,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:50:27.008Z",
+      "latencyMs": 159,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:50:37.008Z",
+      "latencyMs": 159,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:50:47.008Z",
+      "latencyMs": 159,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:50:57.009Z",
+      "latencyMs": 159,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:51:07.015Z",
+      "latencyMs": 163,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:51:17.010Z",
+      "latencyMs": 158,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:51:27.021Z",
+      "latencyMs": 168,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:51:37.012Z",
+      "latencyMs": 158,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:51:47.013Z",
+      "latencyMs": 159,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:51:57.013Z",
+      "latencyMs": 158,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:52:07.031Z",
+      "latencyMs": 174,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:52:17.021Z",
+      "latencyMs": 163,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:52:27.026Z",
+      "latencyMs": 168,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:52:37.024Z",
+      "latencyMs": 164,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:52:47.018Z",
+      "latencyMs": 157,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:52:57.020Z",
+      "latencyMs": 159,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:53:07.035Z",
+      "latencyMs": 174,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:53:17.030Z",
+      "latencyMs": 168,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:53:27.032Z",
+      "latencyMs": 168,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:53:37.033Z",
+      "latencyMs": 169,
+      "success": true
+    },
+    {
+      "timestamp": "2026-10-14T00:53:47.033Z",
+      "latencyMs": 169,
+      "success": true
+    }
+  ],
+  "agent": {
+    "active": true,
+    "lastHeartbeat": "2026-10-14T00:39:22.448Z",
+    "bootTime": "2026-10-14T00:39:22.448Z",
+    "uptimeSeconds": null,
+    "hostname": null,
+    "os": null,
+    "kernel": null
+  },
+  "serverLocation": {
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": "Bavaria",
+    "city": "Nuremberg",
+    "isp": "netcup GmbH",
+    "org": "netcup GmbH",
+    "timezone": "Europe/Berlin",
+    "flag": "🇩🇪",
+    "query": "89.58.58.246"
+  }
+}
